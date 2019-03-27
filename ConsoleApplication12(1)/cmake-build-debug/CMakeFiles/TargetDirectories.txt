@@ -1,0 +1,3 @@
+C:/Users/mi/source/repos/ConsoleApplication12/cmake-build-debug/CMakeFiles/ConsoleApplication12.dir
+C:/Users/mi/source/repos/ConsoleApplication12/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/mi/source/repos/ConsoleApplication12/cmake-build-debug/CMakeFiles/rebuild_cache.dir

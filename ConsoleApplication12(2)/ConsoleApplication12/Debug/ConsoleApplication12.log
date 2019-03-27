@@ -1,0 +1,26 @@
+﻿  ConsoleApplication12.cpp
+c:\users\mi\source\repos\consoleapplication12(2)\consoleapplication12\screen.h(23): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+c:\users\mi\source\repos\consoleapplication12(2)\consoleapplication12\exceptions.h(2): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+c:\users\mi\source\repos\consoleapplication12(2)\consoleapplication12\shape.h(254): warning C4250: h_circle: наследуется "rectangle::rectangle::north" через превосходство
+  c:\users\mi\source\repos\consoleapplication12(2)\consoleapplication12\shape.h(199): note:  см. объявление "rectangle::north"
+c:\users\mi\source\repos\consoleapplication12(2)\consoleapplication12\shape.h(254): warning C4250: h_circle: наследуется "rectangle::rectangle::south" через превосходство
+  c:\users\mi\source\repos\consoleapplication12(2)\consoleapplication12\shape.h(200): note:  см. объявление "rectangle::south"
+c:\users\mi\source\repos\consoleapplication12(2)\consoleapplication12\shape.h(254): warning C4250: h_circle: наследуется "rectangle::rectangle::east" через превосходство
+  c:\users\mi\source\repos\consoleapplication12(2)\consoleapplication12\shape.h(201): note:  см. объявление "rectangle::east"
+c:\users\mi\source\repos\consoleapplication12(2)\consoleapplication12\shape.h(254): warning C4250: h_circle: наследуется "rectangle::rectangle::west" через превосходство
+  c:\users\mi\source\repos\consoleapplication12(2)\consoleapplication12\shape.h(202): note:  см. объявление "rectangle::west"
+c:\users\mi\source\repos\consoleapplication12(2)\consoleapplication12\shape.h(254): warning C4250: h_circle: наследуется "rectangle::rectangle::neast" через превосходство
+  c:\users\mi\source\repos\consoleapplication12(2)\consoleapplication12\shape.h(203): note:  см. объявление "rectangle::neast"
+c:\users\mi\source\repos\consoleapplication12(2)\consoleapplication12\shape.h(254): warning C4250: h_circle: наследуется "rectangle::rectangle::seast" через превосходство
+  c:\users\mi\source\repos\consoleapplication12(2)\consoleapplication12\shape.h(204): note:  см. объявление "rectangle::seast"
+c:\users\mi\source\repos\consoleapplication12(2)\consoleapplication12\shape.h(254): warning C4250: h_circle: наследуется "rectangle::rectangle::nwest" через превосходство
+  c:\users\mi\source\repos\consoleapplication12(2)\consoleapplication12\shape.h(205): note:  см. объявление "rectangle::nwest"
+c:\users\mi\source\repos\consoleapplication12(2)\consoleapplication12\shape.h(254): warning C4250: h_circle: наследуется "rectangle::rectangle::swest" через превосходство
+  c:\users\mi\source\repos\consoleapplication12(2)\consoleapplication12\shape.h(206): note:  см. объявление "rectangle::swest"
+c:\users\mi\source\repos\consoleapplication12(2)\consoleapplication12\shape.h(254): warning C4250: h_circle: наследуется "rectangle::rectangle::move" через превосходство
+  c:\users\mi\source\repos\consoleapplication12(2)\consoleapplication12\shape.h(217): note:  см. объявление "rectangle::move"
+c:\users\mi\source\repos\consoleapplication12(2)\consoleapplication12\shape.h(254): warning C4250: h_circle: наследуется "rectangle::rectangle::resize" через превосходство
+  c:\users\mi\source\repos\consoleapplication12(2)\consoleapplication12\shape.h(221): note:  см. объявление "rectangle::resize"
+c:\users\mi\source\repos\consoleapplication12(2)\consoleapplication12\shape.h(266): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\mi\source\repos\consoleapplication12(2)\consoleapplication12\shape.h(267): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  ConsoleApplication12.vcxproj -> C:\Users\mi\source\repos\ConsoleApplication12(2)\Debug\ConsoleApplication12.exe
