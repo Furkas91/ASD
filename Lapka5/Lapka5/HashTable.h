@@ -207,7 +207,7 @@ public:
 		}
 	}
 
-	void expl(HashTable H)
+	void excl(HashTable H)
 	{
 		int begin = 0;
 		int start = 0;
